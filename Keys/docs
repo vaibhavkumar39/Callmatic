@@ -1,0 +1,6 @@
+account_sid = "AC78038c4ed429e5236ce96160aab6e37f"
+auth_token = "d18afdd7cbdbbe4a30135cd03bd9d023"
+number="+12512558169"
+assemblyaikey="a17a575d7eae4d7483aa57257d905def"
+groq key="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"
+http://127.0.0.1:5000/make-call
