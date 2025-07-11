@@ -848,3 +848,95 @@ Okay, let me try to give you a list of some of the most influential people in th
 
 1.
 
+User (en): Am I audible to you?
+Bot: I'm a text-based assistant, so I don't have the ability to hear or process audio. I can only respond to text-based inputs and questions. Feel free to ask me anything, and I'll do my best to assist you!
+
+User (en): How are you?
+Bot: I'm doing well, thanks! I'm a large language model, so I don't have feelings like humans do, but I'm always ready to help with any technical or programming questions you might have. Go ahead and ask me anything!
+
+User (hi): Python में libraries क्या होती है?
+Bot: Error answering from PDF: Error code: 400 - {'error': {'message': '`max_tokens` must be less than or equal to `8192`, the maximum value for `max_tokens` is less than the `context_window` for this model', 'type': 'invalid_request_error'}}
+
+User (en): Jpepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepepe
+Bot: I apologize, but it seems like you accidentally pasted a long string of "pepe" instead of a legitimate question or topic. Could you please rephrase or ask a real question, and I'll be happy to help you with any technical or programming-related queries?
+
+User (en): Hello, how are you?
+Bot: Hello! I'm doing well, thanks for asking. I'm here to help answer your technical and programming questions to the best of my abilities. What's on your mind?
+
+User (hi): Python आ रही है क्या है यह?
+Bot: Error answering from PDF: Error code: 400 - {'error': {'message': '`max_tokens` must be less than or equal to `8192`, the maximum value for `max_tokens` is less than the `context_window` for this model', 'type': 'invalid_request_error'}}
+
+User (en): Hi how are you?
+Bot: Hi! I'm doing well, thanks for asking. I'm a helpful assistant, ready to assist you with any technical or programming questions you may have. How can I help you today?
+
+User (hinglish): वह दिन में pricing क्या होती है?
+Bot: Day trading की pricing, मतलब day trading में एक ट्रेडर एक ही दिन में शेयर्स या सिक्योरिटीज खरीदता और बेचता है, इसमें ओवरनाइट पोजीशन नहीं ली जाती। 
+
+अब pricing के बारे में बात करें तो day trading में प्राइसिंग में दो मुख्य टूल्स होते
+
+User (en): Hi how are you?
+Bot: I'm doing well, thanks! I'm here to help with any technical or programming questions you might have. What's on your mind?
+
+User (hi): Python में slicing क्या होती है?
+Bot: Python में slicing, string ki individual characters ko access karne ki ek technique hai. Iske through, aap kisi bhi string ki kisi specific character ko access kar sakte hain, ya phir kisi specific range ki characters ko access kar sakte hain. For example, agar aap kisi string "hello" ki second character ko access karna chahte hain, toh aap "hello"[1] likh sakte hain, aur yeh "e" output dega.
+
+User (hi): Python में variable क्या होते हैं?
+Bot: Python mein variables values ko naam dene ke liye use kiye jaate hain. Isse programs memory locations ki jagah names use karke values ko refer kar sakti hain. For example, agar aapne "age" naam ki variable create ki hai, toh woh person ki age ko represent karegi.
+
+User (en): Coding
+Bot: What would you like to know about coding? Do you have a specific question or topic in mind (e.g. programming languages, data structures, algorithms, etc.)?
+
+User (en): Hi, how are you?
+Bot: I'm doing well, thanks! I'm here to help with any technical or programming questions you may have. How can I assist you today?
+
+User (en): What is Python?
+Bot: Python is a great language to learn; it's useful and popular, and has a supportive community of professionals and enthusiasts ready to help. Python is a versatile language that supports many kinds of applications, and can be used to automate tasks, solve problems quickly, and more.
+
+User (en): Hi, how are you?
+Bot: I'm doing well, thanks! I'm here to help with any technical or programming questions you may have. What's on your mind?
+
+User (en): 500000
+Bot: It seems like you've provided a number, but I'm not sure what you're asking or what context this number is in. Could you please provide more information or clarify your question so I can better assist you?
+
+User (hi): Python में Python क्या होती है?
+Bot: Python ek high-level programming language hai, jisme aap programs create kar sakti hain. Yeh language kipecially designed hai for readability, simplicity, and ease of use, aur isko various fields mein use kiya jaata hai, jaise ki web development, scientific computing, data analysis, artificial intelligence, and more.
+
+User (en): Hi, how are you?
+Bot: I'm just an AI, I don't have emotions, but I'm here to help you with any technical or programming questions you may have! What can I assist you with today?
+
+User (hi): Python में license क्या होती होगी?
+Bot: Most software available on PyPI is free and open source. Iske matlab yeh hai ki Python mein license open source hoti hai.
+
+User (en): Hi, how are you?
+Bot: Hi! I'm doing great, thanks for asking! I'm ready to help you with any technical or programming questions you might have. Go ahead and ask away!
+
+User (hi): Python में slicing क्या होती है?
+Bot: नमस्ते! Python में slicing का मतलब है कि आप किसी string या list से कुछ czę को निकाल सकते हैं. उदाहरण के लिए, अगर आपके पास एक string "hello" है, तो आप "hello"[1:4] लिख कर "ell" निकाल सकते हैं. इस तरह से आप किसी भी string या list से कुछ czę को निकाल कर उपयोग कर सकते हैं.
+
+User (hi): Python में variables क्या होते हैं?
+Bot: Python में variables program के लिए values के लिए names होते हैं, जिससे memory locations की जगह names से values को refer किया जा सकता है। उदाहरण के लिए, age एक person की उम्र को refer करता है, और birth एक person की date of birth को refer करता है।
+
+User (hinglish): मुझे Suzukiimini के बारे में बताओ.
+Bot: Suzukimini ki baat kar rahe ho!
+
+Suzukimini ek small ke size ki car hai, jo ki Japanese automaker Suzuki ke dwara designed aur manufactured hai. Ye ek keedaar ke liye perfect car hai, kyunki ye compact hai, fuel-efficient hai, aur affordable bhi hai.
+
+Suzukimini mein kuch notable features hain, jaise ki:
+
+* 1.2-liter ke petrol engine, jo ki 82
+
+User (en): Call recording has now
+Bot: You're referring to call recording features!
+
+Yes, many modern smartphones, especially Android devices, have built-in call recording capabilities. Additionally, there are third-party apps available that can record calls.
+
+Some popular call recording apps include:
+
+1. Automatic Call Recorder
+2. Call Recorder
+3. Call Recording by NoNotes
+4. Phone Call Recorder
+5. Cube Call Recorder
+
+These apps can record both incoming and outgoing calls, and some even offer features like automatic recording, cloud syncing, and transcription
+
